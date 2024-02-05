@@ -1,0 +1,10 @@
+---,FuncName,IsEnable,ClassType,RequiredActionPoint
+MoveUp,MoveUp,TRUE,None,1
+MoveDown,MoveDown,TRUE,None,1
+MoveLeft,MoveLeft,TRUE,None,1
+MoveRight,MoveRight,TRUE,None,1
+Defend,Defend,TRUE,None,1
+Dismiss,Dismiss,TRUE,None,1
+Interact,Interact,TRUE,None,1
+Construct,Construct,TRUE,None,1
+Attack,Attack,TRUE,None,1
